@@ -6,7 +6,7 @@
   
   
   
-  [![Generic badge](https://img.shields.io/badge/Slack-Community-black.svg)](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q)
+  [![Generic badge](https://img.shields.io/badge/Slack-join-3F0F3F.svg)](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q)
   [![Generic badge](https://img.shields.io/badge/About-Us-<COLOR>.svg)](https://ssbcb.github.io/ssbcb1.github.io/About.md)
 
 
