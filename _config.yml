@@ -16,12 +16,10 @@
 title: الجمعية السعودية للمعلوماتية الحيوية 
 email:
 description: جمعية رسمية مسجلة في الهيئة السعودية للتخصصات الصحية ومقرها المملكة العربية السعودية.
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
