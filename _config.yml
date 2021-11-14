@@ -91,11 +91,5 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /about/
-tag_archive:
-  type: liquid
-  path: /about/
 
 theme: jekyll-theme-cayman
