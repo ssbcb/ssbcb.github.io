@@ -2,6 +2,7 @@
 permalink: /about/
 title: ""
 ---
+
 <div dir="rtl">
 
 # الجمعية السعودية للمعلوماتية الحيوية
