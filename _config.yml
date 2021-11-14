@@ -61,7 +61,7 @@ author:
   bio    : "جمعية رسمية مسجلة في الهيئة السعودية للتخصصات الصحية ومقرها المملكة العربية السعودية."
   links:
     - label: "Website"
-      icon: "fas fa-fw fa-slack"
+      icon: "fas fa-fw fa-link"
       url: "https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -73,7 +73,7 @@ author:
 footer:
   links:
     - label: "Slack"
-      icon: "fas fa-fw fa-slack"
+      icon: "fas fa-fw fa-link"
       url: "https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
