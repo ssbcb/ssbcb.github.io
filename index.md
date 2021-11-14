@@ -2,7 +2,11 @@
 layout: default
 ---
 
-[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=whiteO">](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ssbcb-31587a222) [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ssbcb/ssbcb1.github.io)
+  [![Generic badge](https://img.shields.io/badge/Github-Contribute-black.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
+  [![Generic badge](https://img.shields.io/badge/Linkedin-Connect-0077b5.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
+  [![Generic badge](https://img.shields.io/badge/Twitter-follow-00acee.svg)](https://twitter.com/S_Bioinformatic)
+  [![Generic badge](https://img.shields.io/badge/Slack-join-3F0F3F.svg)](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q)
+  [![Generic badge](https://img.shields.io/badge/About-Us-green.svg)](https://github.com/ssbcb/ssbcb1.github.io/blob/master/About.md)
 
 # من نحن
 
