@@ -4,6 +4,9 @@ layout: default
 
 <style>body {text-align: right}</style>
 
+
+[<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=whiteO">](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q) [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com)
+
 # من نحن
 
 نحن مجموعة من الأشخاص المهتمين  بكل جديد  في المعلوماتية الحيوية. تعتبر الجمعية السعودية للمعلوماتية الحيوية جمعية غير ربحية ، معتمدة من قبل الهيئة السعودية للتخصصات الصحية ، ولديها أعضاء من جميع أنحاء العالم. كمجتمع ، نشارك بالعديد من المصادر الخاصة بالمعلوماتية الحيوية وكذلك  آخر الأخبار والأحداث ذات الصلة لجميع أعضائنا. بالإضافة إلى قنواتنا المجتمعية الداخلية، نقوم أيضًا بتسهيل التدريب والتعليم والتوظيف والتطوير الوظيفي والتعاون والتواصل  بين الأعضاء. وبالتالي نتمكن من إضافة قيمة وفائدة المجتمع ككل، وأن نكون جزء فعال في تحقيق رؤية المملكة العربية السعودية 2030. 
