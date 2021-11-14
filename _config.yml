@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "الجمعية السعودية للمعلوماتية الحيوية"
-  avatar : "/assets/images/logo2.png"
+  avatar : "/assets/images/avatar.png"
   bio    : "جمعية رسمية مسجلة في الهيئة السعودية للتخصصات الصحية ومقرها المملكة العربية السعودية."
   links:
     - label: "Website"
