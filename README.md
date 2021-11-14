@@ -1,33 +1,16 @@
-# Minimal Mistakes remote theme starter
+# # [الجمعية السعودية للمعلوماتية الحيوية](https://ssbcb.github.io/ssbcb1.github.io/)
+نحن مجموعة من الأشخاص المهتمين  بكل جديد  في المعلوماتية الحيوية. تعتبر الجمعية السعودية للمعلوماتية الحيوية جمعية غير ربحية ، معتمدة من قبل الهيئة السعودية للتخصصات الصحية ، ولديها أعضاء من جميع أنحاء العالم. كمجتمع ، نشارك بالعديد من المصادر الخاصة بالمعلوماتية الحيوية وكذلك  آخر الأخبار والأحداث ذات الصلة لجميع أعضائنا. بالإضافة إلى قنواتنا المجتمعية الداخلية، نقوم أيضًا بتسهيل التدريب والتعليم والتوظيف والتطوير الوظيفي والتعاون والتواصل  بين الأعضاء. وبالتالي نتمكن من إضافة قيمة وفائدة المجتمع ككل، وأن نكون جزء فعال في تحقيق رؤية المملكة العربية السعودية 2030. 
 
+## رؤيتنا
+أن نكون وجهة للعلماء والطلاب والمهنيين للتعلم والنمو وتبادل الخبرات في مجال المعلوماتية الحيوية في المملكة العربية السعودية. 
 
-https://ssbcb.github.io/ssbcb1.github.io/
+## رسالتنا
+إنشاء وجهة وطنية للعلماء والمهتمين  بالمعلوماتية الحيوية في المملكة العربية السعودية.
 
-
-
-
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+## قيمنا
+- **الإمتياز** في توفير الفرص والدعم لأعضائنا
+- **التشجيع** والتعاون من خلال المشاركة المفتوحة للبيانات بشكل
+- **المسؤولية** والاعتراف بالحقوق الفكرية والخصوصية وتجنب تضارب المصالح.
+- **التنوع والشمول** واحترام اختلافات أعضائنا في جميع الجوانب. 
+- **التواصل** والبحث المستمر عن فرص للتحسين ومحاولة التواصل بشفافية. 
+- **الخدمة** والالتزام بإفادة البشرية والبيئة من خلال خدماتنا. 
