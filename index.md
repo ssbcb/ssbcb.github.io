@@ -3,7 +3,6 @@ layout: default
 ---
 
 <style>body {text-align: right}</style>
-<link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet"></link>
 
 # من نحن
 
