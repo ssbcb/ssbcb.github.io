@@ -20,7 +20,7 @@ description: جمعية رسمية مسجلة في الهيئة السعودية
 twitter_username: ssbcb
 github_username: ssbcb
 minimal_mistakes_skin: dirt
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
