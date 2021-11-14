@@ -26,8 +26,6 @@ search: false
 markdown: kramdown
 #remote_theme: mmistakes/minimal-mistakes
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -57,6 +55,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name   : "الجمعية السعودية للمعلوماتية الحيوية"
