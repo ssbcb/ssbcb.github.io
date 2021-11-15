@@ -1,4 +1,3 @@
-<div style="text-align: right">
 
 # Saudi Society for Bioinformatics and Computational Biology (SSBCB)
 
