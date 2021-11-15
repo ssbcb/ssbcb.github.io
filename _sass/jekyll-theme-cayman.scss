@@ -1,7 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.gstatic.com/s/tajawal/v4/Iura6YBj_oCad4k1nzSBC45I.woff2');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -34,7 +34,7 @@ body {
   color: $body-text-color;
   padding: 0;
   margin: 0;
-  
+
   font-style: normal;
   font-weight: 400;
   font-display: swap;
