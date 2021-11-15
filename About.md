@@ -1,5 +1,3 @@
-<div dir="ltr">
-
 # Saudi Society for Bioinformatics and Computational Biology (SSBCB)
 
   [![Generic badge](https://img.shields.io/badge/Linkedin-Connect-0077b5.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
