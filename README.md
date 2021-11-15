@@ -1,12 +1,12 @@
 <div dir="rtl">
 
-# [الجمعية السعودية للمعلوماتية الحيوية](https://ssbcb.github.io/ssbcb1.github.io/)
+# [الجمعية السعودية للمعلوماتية الحيوية](https://ssbcb.github.io/ssbcb.github.io/)
   
   [![Generic badge](https://img.shields.io/badge/Github-Contribute-black.svg)](https://github.com/ssbcb)
   [![Generic badge](https://img.shields.io/badge/Linkedin-Connect-0077b5.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
   [![Generic badge](https://img.shields.io/badge/Twitter-follow-00acee.svg)](https://twitter.com/S_Bioinformatic)
   [![Generic badge](https://img.shields.io/badge/Slack-join-3F0F3F.svg)](https://join.slack.com/t/ssbcb-88x5390/shared_invite/zt-yk9wdf3r-2u~cG1nbUpH73DEFnMd25Q)
-  [![Generic badge](https://img.shields.io/badge/About-Us-green.svg)](https://github.com/ssbcb/ssbcb1.github.io/blob/master/About.md)
+  [![Generic badge](https://img.shields.io/badge/About-Us-green.svg)](https://github.com/ssbcb/ssbcb.github.io/blob/master/About.md)
 
 
 نحن مجموعة من الأشخاص المهتمين  بكل جديد  في المعلوماتية الحيوية. تعتبر الجمعية السعودية للمعلوماتية الحيوية جمعية غير ربحية ، معتمدة من قبل الهيئة السعودية للتخصصات الصحية ، ولديها أعضاء من جميع أنحاء العالم. كمجتمع ، نشارك بالعديد من المصادر الخاصة بالمعلوماتية الحيوية وكذلك  آخر الأخبار والأحداث ذات الصلة لجميع أعضائنا. بالإضافة إلى قنواتنا المجتمعية الداخلية، نقوم أيضًا بتسهيل التدريب والتعليم والتوظيف والتطوير الوظيفي والتعاون والتواصل  بين الأعضاء. وبالتالي نتمكن من إضافة قيمة وفائدة المجتمع ككل، وأن نكون جزء فعال في تحقيق رؤية المملكة العربية السعودية 2030. 
