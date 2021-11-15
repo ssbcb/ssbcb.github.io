@@ -14,5 +14,3 @@ Making a national hub for computational biologists, bioinformaticians  and  scie
 - **Diversity and Inclusion** respecting our members' differences in all aspects. 
 - **Communication** seeking feedback and trying to communicate transparently. 
 - **Service** committing to benefit humanity and the environment through our services.
-
-[back](./)
