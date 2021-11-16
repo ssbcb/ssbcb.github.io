@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![معتمدة من قبل](https://shima.org.sa/gallery_gen/5f974bf3671212b249f4c64ac00a4906_1040x536.png)
+
   [![Generic badge](https://img.shields.io/badge/Github-Contribute-black.svg)](https://github.com/ssbcb)
   [![Generic badge](https://img.shields.io/badge/Linkedin-Connect-0077b5.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
   [![Generic badge](https://img.shields.io/badge/Twitter-follow-00acee.svg)](https://twitter.com/S_Bioinformatic)
