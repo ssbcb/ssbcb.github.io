@@ -1,5 +1,7 @@
 <div dir="rtl">
 
+![معتمدة من قبل](https://shima.org.sa/gallery_gen/5f974bf3671212b249f4c64ac00a4906_1040x536.png)
+
 # [الجمعية السعودية للمعلوماتية الحيوية](https://ssbcb.github.io/)
   
   [![Generic badge](https://img.shields.io/badge/Linkedin-Connect-0077b5.svg)](https://www.linkedin.com/in/ssbcb-31587a222)
