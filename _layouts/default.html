@@ -16,10 +16,11 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">الجمعية السعودية للمعلوماتية الحيوية</h1>
-      <h2 class="project-tagline">جمعية رسمية مسجلة في الهيئة السعودية للتخصصات الصحية ومقرها المملكة العربية السعودية</h2>
+      <h1 class="project-name">{{ site.title }}</h1>
+      <h2 class="project-tagline">{{ site.description }}</h2>
       {% if site.show_downloads %}
         <a href="https://forms.gle/khmRyxNokgBXToDJ7" class="btn">سجل الآن</a>
+        <a href="{{ site.button_joinus_url }}" class="btn">انضم إلينا</a>
       {% endif %}
     </header>
 
